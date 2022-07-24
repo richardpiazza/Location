@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "harness",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/richardpiazza/Harness.git",
+      "state" : {
+        "revision" : "5cadd677550b3aaf7a21739b2cc1f207726b84a2",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "5d66f7ba25daf4f94100e7022febf3c75e37a6c7",
+        "version" : "1.4.2"
+      }
+    }
+  ],
+  "version" : 2
+}

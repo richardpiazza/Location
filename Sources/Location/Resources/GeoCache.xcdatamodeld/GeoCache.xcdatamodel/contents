@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21E258" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="1.0">
+    <entity name="AddressCoordinates" representedClassName="AddressCoordinates" syncable="YES">
+        <attribute name="city" attributeType="String" defaultValueString=""/>
+        <attribute name="latitude" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="longitude" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="postalCode" attributeType="String" defaultValueString=""/>
+        <attribute name="state" attributeType="String" defaultValueString=""/>
+        <attribute name="street" attributeType="String" defaultValueString=""/>
+    </entity>
+    <elements>
+        <element name="AddressCoordinates" positionX="-63" positionY="-18" width="128" height="119"/>
+    </elements>
+</model>
